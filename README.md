@@ -7,6 +7,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ##
 
+- [Link do projeto](https://murilonp.github.io/projeto-awax/public)
+
 ### Desktop:
 ![webpage](https://github.com/MuriloNP/projeto-awax/blob/main/public/assets/img-layout/LAYOUT_DESKTOP.jpg)
 
